@@ -1,0 +1,680 @@
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.exe.config
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.exe
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.pdb
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\CircularProgressBar.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\RestSharp.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.CodeDom.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Data.Odbc.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Data.OleDb.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Drawing.Common.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.IO.Packaging.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.IO.Ports.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Permissions.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildForm.F_UpdateHV.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_DSLopMoi.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_DSLopMoi_FormClass.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.F_UC_GM_COURSE_CapNhat.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_CLASS.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_CLASS.F_GM_CLASS_TaoLopMoi.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_CLASS.F_GM_CLASS_XepLop.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_COURSE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.F_UC_GM_COURSE_ThemKhoaHoc.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_ROOM.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_ROOM.F_GM_ROOM_ADDNEWROOM.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_ROOM.F_GM_ROOM_UPDATE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HAMTHU.UC_CHITIETTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HocTap.F_HOCTAP_TAOBANGDIEM.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HocTap.UC_HOCTAP_QLDiem.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_LECTURE_CAPNHAT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_LECTURE_THEMGIANGVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_NV_CAPNHAT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_NV_THEMNHANVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.UC_PERSONNEL_BANGLUONG.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.UC_PERSONNEL_NV.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.F_THUCHI_TAOPHIEUTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_CHI.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_CHI_TaoPhieuChi.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_THU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_THU_FormAVT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.F_STUDENT_CAPNHAT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.F_STUDENT_THEMHOCVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.UC_STUDENT_DSHocVien.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.UC_STUDENT_DSHV_ChildForm.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_STUDENT_XEPLOP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_INFO_UPDATE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_PERSONNEL_LECTURE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_CHAMCONG.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_HOCPHI.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_GHIDANH.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_HOCTAP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.FORM.F_Addmin.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.FORM.F_HOCVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.Login.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.F_HAMTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.F_TKB_THANHTOAN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKILOP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKILOP_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANHSACHLOP_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHUGOPY.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHUGOPY_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_THOIKHOABIEU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_THONGTINHOCVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_TKB.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.SignUp.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.Fody.CopyLocal.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.exe
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.pdb
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_SCHEDULE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.GIANGVIEN.UC_XACNHANLOP_CHILD.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.AssemblyReference.cache
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.SuggestedBindingRedirects.cache
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildForm.F_UpdateHV.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_DSLopMoi.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_DSLopMoi_FormClass.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.F_UC_GM_COURSE_CapNhat.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_CLASS.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_CLASS.F_GM_CLASS_TaoLopMoi.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_CLASS.F_GM_CLASS_XepLop.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_COURSE.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.F_UC_GM_COURSE_ThemKhoaHoc.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_ROOM.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_ROOM.F_GM_ROOM_ADDNEWROOM.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_ROOM.F_GM_ROOM_UPDATE.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_SCHEDULE.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HAMTHU.UC_CHITIETTHU.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HocTap.F_HOCTAP_TAOBANGDIEM.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HocTap.UC_HOCTAP_QLDiem.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_LECTURE_CAPNHAT.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_LECTURE_THEMGIANGVIEN.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_NV_CAPNHAT.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_NV_THEMNHANVIEN.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.UC_PERSONNEL_BANGLUONG.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.UC_PERSONNEL_NV.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.F_THUCHI_TAOPHIEUTHU.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_CHI.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_CHI_TaoPhieuChi.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_THU.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_THU_FormAVT.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.F_STUDENT_CAPNHAT.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.F_STUDENT_THEMHOCVIEN.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.UC_STUDENT_DSHocVien.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.UC_STUDENT_DSHV_ChildForm.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_STUDENT_XEPLOP.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_INFO_UPDATE.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_PERSONNEL_LECTURE.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_CHAMCONG.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_HOCPHI.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_GHIDANH.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_HOCTAP.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.FORM.F_Addmin.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.FORM.F_HOCVIEN.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.Login.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.GIANGVIEN.UC_XACNHANLOP_CHILD.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.F_HAMTHU.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.F_TKB_THANHTOAN.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKILOP.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKILOP_CHILD.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANHSACHLOP_CHILD.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHUGOPY.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHUGOPY_CHILD.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_THOIKHOABIEU.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHU.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_THONGTINHOCVIEN.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_TKB.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.Properties.Resources.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.SignUp.resources
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.GenerateResource.cache
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.CoreCompileInputs.cache
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.exe
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.pdb
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.exe.config
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.exe
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.pdb
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\CircularProgressBar.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\LiveCharts.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\LiveCharts.WinForms.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\LiveCharts.Wpf.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.Registry.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Newtonsoft.Json.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\RestSharp.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Buffers.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.CodeDom.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Data.Odbc.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Data.OleDb.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Data.SqlClient.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Diagnostics.EventLog.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Drawing.Common.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.IO.Packaging.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.IO.Ports.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Memory.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Numerics.Vectors.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.AccessControl.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Permissions.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Principal.Windows.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.ServiceModel.Syndication.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Threading.AccessControl.xml
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.Fody.CopyLocal.cache
+D:\2023-2024\Kỳ II\Winform\DO_AN_CHINH_THUC\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.exe.config
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.exe
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.pdb
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\CircularProgressBar.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\LiveCharts.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\RestSharp.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.CodeDom.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Data.Odbc.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Data.OleDb.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Drawing.Common.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.IO.Packaging.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.IO.Ports.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Permissions.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildForm.F_UpdateHV.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_DSLopMoi.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_DSLopMoi_FormClass.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.F_UC_GM_COURSE_CapNhat.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_CLASS.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_CLASS.F_GM_CLASS_TaoLopMoi.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_CLASS.F_GM_CLASS_XepLop.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_COURSE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.F_UC_GM_COURSE_ThemKhoaHoc.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_ROOM.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_ROOM.F_GM_ROOM_ADDNEWROOM.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_ROOM.F_GM_ROOM_UPDATE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_SCHEDULE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HAMTHU.UC_CHITIETTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HocTap.F_HOCTAP_TAOBANGDIEM.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HocTap.UC_HOCTAP_QLDiem.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_LECTURE_CAPNHAT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_LECTURE_THEMGIANGVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_NV_CAPNHAT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_NV_THEMNHANVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.UC_PERSONNEL_BANGLUONG.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.UC_PERSONNEL_NV.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.F_THUCHI_TAOPHIEUTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_CHI.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_CHI_TaoPhieuChi.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_THU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_THU_FormAVT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.F_STUDENT_CAPNHAT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.F_STUDENT_THEMHOCVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.UC_STUDENT_DSHocVien.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.UC_STUDENT_DSHV_ChildForm.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_STUDENT_XEPLOP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_INFO_UPDATE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_PERSONNEL_LECTURE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_CHAMCONG.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_HOCPHI.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_GHIDANH.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_HOCTAP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.FORM.F_Addmin.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.FORM.F_HOCVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.Login.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.GIANGVIEN.UC_XACNHANLOP_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.F_HAMTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.F_TKB_THANHTOAN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKILOP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKILOP_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANHSACHLOP_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHUGOPY.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHUGOPY_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_THOIKHOABIEU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_THONGTINHOCVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_TKB.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.SignUp.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.Fody.CopyLocal.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.exe
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.pdb
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKYLOP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DKL.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.exe.config
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.exe
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.pdb
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\CircularProgressBar.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\LiveCharts.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\LiveCharts.WinForms.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\LiveCharts.Wpf.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.Registry.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Newtonsoft.Json.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\RestSharp.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Buffers.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.CodeDom.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Data.Odbc.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Data.OleDb.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Data.SqlClient.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Diagnostics.EventLog.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Drawing.Common.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.IO.Packaging.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.IO.Ports.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Memory.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Numerics.Vectors.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.AccessControl.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Permissions.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Principal.Windows.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.ServiceModel.Syndication.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Threading.AccessControl.xml
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.AssemblyReference.cache
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.SuggestedBindingRedirects.cache
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildForm.F_UpdateHV.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_DSLopMoi.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_DSLopMoi_FormClass.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.F_UC_GM_COURSE_CapNhat.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_CLASS.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_CLASS.F_GM_CLASS_TaoLopMoi.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_CLASS.F_GM_CLASS_XepLop.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_COURSE.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.F_UC_GM_COURSE_ThemKhoaHoc.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_ROOM.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_ROOM.F_GM_ROOM_ADDNEWROOM.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_ROOM.F_GM_ROOM_UPDATE.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_SCHEDULE.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HAMTHU.UC_CHITIETTHU.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HocTap.F_HOCTAP_TAOBANGDIEM.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HocTap.UC_HOCTAP_QLDiem.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_LECTURE_CAPNHAT.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_LECTURE_THEMGIANGVIEN.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_NV_CAPNHAT.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_NV_THEMNHANVIEN.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.UC_PERSONNEL_BANGLUONG.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.UC_PERSONNEL_NV.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.F_THUCHI_TAOPHIEUTHU.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_CHI.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_CHI_TaoPhieuChi.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_THU.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_THU_FormAVT.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.F_STUDENT_CAPNHAT.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.F_STUDENT_THEMHOCVIEN.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.UC_STUDENT_DSHocVien.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.UC_STUDENT_DSHV_ChildForm.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_STUDENT_XEPLOP.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_INFO_UPDATE.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_PERSONNEL_LECTURE.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_CHAMCONG.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_HOCPHI.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_GHIDANH.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_HOCTAP.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.FORM.F_Addmin.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.FORM.F_HOCVIEN.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.Login.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.GIANGVIEN.UC_XACNHANLOP_CHILD.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.F_HAMTHU.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.F_TKB_THANHTOAN.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKILOP.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKILOP_CHILD.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKYLOP.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANHSACHLOP_CHILD.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHUGOPY.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHUGOPY_CHILD.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DKL.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_THOIKHOABIEU.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHU.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_THONGTINHOCVIEN.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_TKB.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.Properties.Resources.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.SignUp.resources
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.GenerateResource.cache
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.CoreCompileInputs.cache
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.Fody.CopyLocal.cache
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.CopyComplete
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.exe
+D:\2023-2024\Kỳ II\Winform\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.pdb
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.exe.config
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.exe
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.pdb
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\CircularProgressBar.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\LiveCharts.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\RestSharp.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.CodeDom.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Data.Odbc.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Data.OleDb.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Drawing.Common.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.IO.Packaging.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.IO.Ports.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Permissions.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildForm.F_UpdateHV.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_DSLopMoi.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_DSLopMoi_FormClass.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.F_UC_GM_COURSE_CapNhat.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_CLASS.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_CLASS.F_GM_CLASS_TaoLopMoi.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_CLASS.F_GM_CLASS_XepLop.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_COURSE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.F_UC_GM_COURSE_ThemKhoaHoc.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_ROOM.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_ROOM.F_GM_ROOM_ADDNEWROOM.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_ROOM.F_GM_ROOM_UPDATE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_SCHEDULE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HAMTHU.UC_CHITIETTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HocTap.F_HOCTAP_TAOBANGDIEM.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HocTap.UC_HOCTAP_QLDiem.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_LECTURE_CAPNHAT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_LECTURE_THEMGIANGVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_NV_CAPNHAT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_NV_THEMNHANVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.UC_PERSONNEL_BANGLUONG.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.UC_PERSONNEL_NV.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.F_THUCHI_TAOPHIEUTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_CHI.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_CHI_TaoPhieuChi.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_THU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_THU_FormAVT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.F_STUDENT_CAPNHAT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.F_STUDENT_THEMHOCVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.UC_STUDENT_DSHocVien.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.UC_STUDENT_DSHV_ChildForm.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_STUDENT_XEPLOP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_INFO_UPDATE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_PERSONNEL_LECTURE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_CHAMCONG.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_HOCPHI.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_GHIDANH.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_HOCTAP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.FORM.F_Addmin.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.FORM.F_HOCVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.Login.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.GIANGVIEN.UC_XACNHANLOP_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.F_HAMTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.F_TKB_THANHTOAN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKILOP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKILOP_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKYLOP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANHSACHLOP_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHUGOPY.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHUGOPY_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DKL.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_THOIKHOABIEU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_THONGTINHOCVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_TKB.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.SignUp.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.Fody.CopyLocal.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.exe
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\T5_18_05\T4_17_05\DOAN_WINFORM\TEST_DOAN\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.pdb
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.exe.config
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.exe
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\DemoDoAn.pdb
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\CircularProgressBar.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\LiveCharts.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\RestSharp.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.CodeDom.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Data.Odbc.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Data.OleDb.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Drawing.Common.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.IO.Packaging.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.IO.Ports.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Permissions.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildForm.F_UpdateHV.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_DSLopMoi.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_DSLopMoi_FormClass.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.F_UC_GM_COURSE_CapNhat.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_CLASS.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_CLASS.F_GM_CLASS_TaoLopMoi.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_CLASS.F_GM_CLASS_XepLop.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_COURSE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.F_UC_GM_COURSE_ThemKhoaHoc.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_ROOM.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_ROOM.F_GM_ROOM_ADDNEWROOM.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_ROOM.F_GM_ROOM_UPDATE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_SCHEDULE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HAMTHU.UC_CHITIETTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HocTap.F_HOCTAP_TAOBANGDIEM.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HocTap.UC_HOCTAP_QLDiem.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_LECTURE_CAPNHAT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_LECTURE_THEMGIANGVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_NV_CAPNHAT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_NV_THEMNHANVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.UC_PERSONNEL_BANGLUONG.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.UC_PERSONNEL_NV.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.F_THUCHI_TAOPHIEUTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_CHI.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_CHI_TaoPhieuChi.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_THU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_THU_FormAVT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.F_STUDENT_CAPNHAT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.F_STUDENT_THEMHOCVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.UC_STUDENT_DSHocVien.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.UC_STUDENT_DSHV_ChildForm.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_STUDENT_XEPLOP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_INFO_UPDATE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_PERSONNEL_LECTURE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_CHAMCONG.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_HOCPHI.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_GHIDANH.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_HOCTAP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.FORM.F_Addmin.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.FORM.F_HOCVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.Login.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.GIANGVIEN.UC_XACNHANLOP_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.F_HAMTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.F_TKB_THANHTOAN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKILOP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKILOP_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKYLOP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANHSACHLOP_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHUGOPY.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHUGOPY_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DKL.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_THOIKHOABIEU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_THONGTINHOCVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_TKB.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.SignUp.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.Fody.CopyLocal.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.exe
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF\Nhom16\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.pdb
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildForm.F_UpdateHV.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_DSLopMoi.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_DSLopMoi_FormClass.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.F_UC_GM_COURSE_CapNhat.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_CLASS.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_CLASS.F_GM_CLASS_TaoLopMoi.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_CLASS.F_GM_CLASS_XepLop.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_COURSE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.F_UC_GM_COURSE_ThemKhoaHoc.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_ROOM.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_ROOM.F_GM_ROOM_ADDNEWROOM.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_ROOM.F_GM_ROOM_UPDATE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.General_Management.UC_GM_SCHEDULE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HAMTHU.UC_CHITIETTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HocTap.F_HOCTAP_TAOBANGDIEM.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.HocTap.UC_HOCTAP_QLDiem.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_LECTURE_CAPNHAT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_LECTURE_THEMGIANGVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_NV_CAPNHAT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.F_NV_THEMNHANVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.UC_PERSONNEL_BANGLUONG.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Personnel.UC_PERSONNEL_NV.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.F_THUCHI_TAOPHIEUTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_CHI.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_CHI_TaoPhieuChi.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_THU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.QLThuChi.UC_THUCHI_THU_FormAVT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.F_STUDENT_CAPNHAT.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.F_STUDENT_THEMHOCVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.UC_STUDENT_DSHocVien.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.Student.UC_STUDENT_DSHV_ChildForm.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_STUDENT_XEPLOP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_GM_INFO_UPDATE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.UC_PERSONNEL_LECTURE.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_CHAMCONG.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_HOCPHI.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_GHIDANH.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.ChildPage.ThongKe.UC_THONGKE_HOCTAP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.FORM.F_Addmin.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.FORM.F_HOCVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.Login.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.GIANGVIEN.UC_XACNHANLOP_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.F_HAMTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.F_TKB_THANHTOAN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKILOP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKILOP_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANGKYLOP.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DANHSACHLOP_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHUGOPY.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHUGOPY_CHILD.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_DKL.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_THOIKHOABIEU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_HAMTHU.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_THONGTINHOCVIEN.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.HOCVIEN.UC_TKB.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.SignUp.resources
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.exe
+C:\Users\ADMIN\OneDrive - hcmute.edu.vn\Máy tính\Nhom16_WF_Entity\T5_18_05\DemoDoAn\DemoDoAn\obj\Debug\DemoDoAn.pdb

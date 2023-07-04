@@ -1,0 +1,774 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DEMO_TTTAModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ACCOUNTS_ADMIN">
+    <Key>
+      <PropertyRef Name="AccID_Adm" />
+    </Key>
+    <Property Name="AccID_Adm" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="username" Type="char" MaxLength="100" Nullable="false" />
+    <Property Name="pass" Type="char" MaxLength="100" Nullable="false" />
+    <Property Name="NgayDK" Type="date" />
+    <Property Name="Remember" Type="int" />
+  </EntityType>
+  <EntityType Name="ACCOUNTS_NHANVIEN">
+    <Key>
+      <PropertyRef Name="AccID_NV" />
+    </Key>
+    <Property Name="AccID_NV" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="username" Type="char" MaxLength="100" Nullable="false" />
+    <Property Name="pass" Type="char" MaxLength="100" Nullable="false" />
+    <Property Name="NgayDK" Type="date" />
+    <Property Name="Remember" Type="int" />
+  </EntityType>
+  <EntityType Name="ACCOUNTS_STUDENT">
+    <Key>
+      <PropertyRef Name="AccID_Stu" />
+    </Key>
+    <Property Name="AccID_Stu" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="username" Type="char" MaxLength="100" Nullable="false" />
+    <Property Name="pass" Type="char" MaxLength="100" Nullable="false" />
+    <Property Name="NgayDK" Type="date" />
+    <Property Name="Remember" Type="int" />
+  </EntityType>
+  <EntityType Name="ACCOUNTS_TEACHER">
+    <Key>
+      <PropertyRef Name="AccID_Tea" />
+    </Key>
+    <Property Name="AccID_Tea" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="username" Type="char" MaxLength="100" Nullable="false" />
+    <Property Name="pass" Type="char" MaxLength="100" Nullable="false" />
+    <Property Name="NgayDK" Type="date" />
+    <Property Name="Remember" Type="int" />
+  </EntityType>
+  <EntityType Name="ADMIN">
+    <Key>
+      <PropertyRef Name="AdmID" />
+    </Key>
+    <Property Name="AdmID" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="ACCID" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="HOTEN" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="GIOITINH" Type="nvarchar" MaxLength="20" />
+    <Property Name="NGAYSINH" Type="date" />
+    <Property Name="DIACHI" Type="nvarchar" MaxLength="4000" />
+    <Property Name="SDT" Type="char" MaxLength="20" />
+    <Property Name="CMND" Type="char" MaxLength="20" />
+    <Property Name="EMAIL" Type="char" MaxLength="100" />
+    <Property Name="ChucVu" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="BANGLUONG">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="THANG" />
+    </Key>
+    <Property Name="ID" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="HOTEN" Type="nvarchar" MaxLength="100" />
+    <Property Name="CHUCVU" Type="nvarchar" MaxLength="100" />
+    <Property Name="Luong" Type="int" />
+    <Property Name="LuongDay" Type="int" />
+    <Property Name="PhuCap" Type="int" />
+    <Property Name="TienThuong" Type="int" />
+    <Property Name="TienBaoHiem" Type="int" />
+    <Property Name="Tongluong" Type="int" />
+    <Property Name="THANG" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DANHSACHLOP">
+    <Key>
+      <PropertyRef Name="MaLop" />
+      <PropertyRef Name="HVID" />
+    </Key>
+    <Property Name="MaLop" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="HVID" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="DiemGiuaKy" Type="float" />
+    <Property Name="DiemCuoiKy" Type="float" />
+    <Property Name="TrangThai" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DEMO_TTTA.dbo.FULL_ID' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="FULL_ID">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="char" MaxLength="5" Nullable="false" />
+  </EntityType>
+  <EntityType Name="GIANGVIEN">
+    <Key>
+      <PropertyRef Name="GvID" />
+    </Key>
+    <Property Name="GvID" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="AccID" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="HOTEN" Type="nvarchar" MaxLength="100" />
+    <Property Name="GIOITINH" Type="nvarchar" MaxLength="20" />
+    <Property Name="NGAYSINH" Type="date" />
+    <Property Name="DIACHI" Type="nvarchar" MaxLength="4000" />
+    <Property Name="SDT" Type="char" MaxLength="20" />
+    <Property Name="CMND" Type="char" MaxLength="20" />
+    <Property Name="EMAIL" Type="char" MaxLength="100" />
+    <Property Name="AVATAR" Type="image" />
+    <Property Name="ChucVu" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="GIOHOC">
+    <Key>
+      <PropertyRef Name="Ca" />
+    </Key>
+    <Property Name="Ca" Type="char" MaxLength="1" Nullable="false" />
+    <Property Name="GioBatDau" Type="time" Precision="7" />
+    <Property Name="GioKetThuc" Type="time" Precision="7" />
+  </EntityType>
+  <EntityType Name="HOCVIEN">
+    <Key>
+      <PropertyRef Name="HVID" />
+    </Key>
+    <Property Name="HVID" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="ACCID" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="HOTEN" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="GIOITINH" Type="nvarchar" MaxLength="20" />
+    <Property Name="NGAYSINH" Type="date" />
+    <Property Name="DIACHI" Type="nvarchar" MaxLength="4000" />
+    <Property Name="SDT" Type="char" MaxLength="20" />
+    <Property Name="CMND" Type="char" MaxLength="20" />
+    <Property Name="EMAIL" Type="char" MaxLength="100" />
+    <Property Name="AVATAR" Type="image" />
+    <Property Name="TienTaiKhoan" Type="int" />
+    <Property Name="ChucVu" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="HOPTHU">
+    <Key>
+      <PropertyRef Name="MaThu" />
+    </Key>
+    <Property Name="MaThu" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="IDGui" Type="char" MaxLength="5" />
+    <Property Name="ChucVu" Type="nvarchar" MaxLength="50" />
+    <Property Name="IDNhan" Type="char" MaxLength="5" />
+    <Property Name="TieuDe" Type="ntext" />
+    <Property Name="Noidung" Type="ntext" />
+    <Property Name="Ngay" Type="date" />
+    <Property Name="Gio" Type="time" Precision="7" />
+    <Property Name="DanhDau" Type="bit" />
+  </EntityType>
+  <EntityType Name="KHOAHOC">
+    <Key>
+      <PropertyRef Name="MaKH" />
+    </Key>
+    <Property Name="MaKH" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="TenKH" Type="nvarchar" MaxLength="100" />
+    <Property Name="TrangThaiKH" Type="int" />
+  </EntityType>
+  <EntityType Name="LICHHOC">
+    <Key>
+      <PropertyRef Name="Thu" />
+      <PropertyRef Name="Ca" />
+      <PropertyRef Name="Phong" />
+    </Key>
+    <Property Name="MaLop" Type="char" MaxLength="5" />
+    <Property Name="Thu" Type="char" MaxLength="1" Nullable="false" />
+    <Property Name="Ca" Type="char" MaxLength="1" Nullable="false" />
+    <Property Name="Phong" Type="char" MaxLength="5" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LICHSUCHITIEN">
+    <Key>
+      <PropertyRef Name="MaPC" />
+    </Key>
+    <Property Name="MaPC" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="ID" Type="char" MaxLength="5" />
+    <Property Name="ChucVu" Type="nvarchar" MaxLength="50" />
+    <Property Name="LoaiTien" Type="nvarchar" MaxLength="50" />
+    <Property Name="SoTien" Type="int" />
+    <Property Name="Ngay" Type="date" />
+    <Property Name="Gio" Type="time" Precision="7" />
+  </EntityType>
+  <EntityType Name="LICHSUTHUTIEN">
+    <Key>
+      <PropertyRef Name="MaPT" />
+    </Key>
+    <Property Name="MaPT" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="HVID" Type="char" MaxLength="5" />
+    <Property Name="MaLop" Type="char" MaxLength="5" />
+    <Property Name="LoaiTien" Type="nvarchar" MaxLength="50" />
+    <Property Name="SoTienDong" Type="int" />
+    <Property Name="Ngay" Type="date" />
+    <Property Name="Gio" Type="time" Precision="7" />
+  </EntityType>
+  <EntityType Name="LOPHOC">
+    <Key>
+      <PropertyRef Name="MaLop" />
+    </Key>
+    <Property Name="MaLop" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="MaKH" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="TenMon" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="TenMonGon" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="SoBuoiTrongTuan" Type="char" MaxLength="2" />
+    <Property Name="HocPhi" Type="char" MaxLength="15" />
+    <Property Name="DiemTBQuaMon" Type="float" />
+    <Property Name="GiangVien" Type="char" MaxLength="5" />
+    <Property Name="SoHocVien" Type="char" MaxLength="3" />
+    <Property Name="NgayBatDau" Type="date" />
+    <Property Name="NgayKetThuc" Type="date" />
+    <Property Name="Luong" Type="int" />
+    <Property Name="TrangThai" Type="nvarchar" MaxLength="50" />
+    <Property Name="TTMoLop" Type="int" />
+    <Property Name="XacNhan" Type="int" />
+  </EntityType>
+  <EntityType Name="NHANVIEN">
+    <Key>
+      <PropertyRef Name="NVID" />
+    </Key>
+    <Property Name="NVID" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="ACCID" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="HOTEN" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="GIOITINH" Type="nvarchar" MaxLength="20" />
+    <Property Name="NGAYSINH" Type="date" />
+    <Property Name="DIACHI" Type="nvarchar" MaxLength="4000" />
+    <Property Name="SDT" Type="char" MaxLength="20" />
+    <Property Name="CMND" Type="char" MaxLength="20" />
+    <Property Name="EMAIL" Type="char" MaxLength="100" />
+    <Property Name="AVATAR" Type="image" />
+    <Property Name="ChucVu" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PHONGHOC">
+    <Key>
+      <PropertyRef Name="Phong" />
+    </Key>
+    <Property Name="Phong" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="TrangThai" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DEMO_TTTA.dbo.BANGDIEM' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="BANGDIEM">
+    <Key>
+      <PropertyRef Name="MaLop" />
+      <PropertyRef Name="HVID" />
+      <PropertyRef Name="TrangThai" />
+    </Key>
+    <Property Name="XepHang" Type="bigint" />
+    <Property Name="MaLop" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="HVID" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="DiemGiuaKy" Type="float" />
+    <Property Name="DiemCuoiKy" Type="float" />
+    <Property Name="DiemTB" Type="float" />
+    <Property Name="TTMoLop" Type="int" />
+    <Property Name="XacNhan" Type="int" />
+    <Property Name="TrangThai" Type="nvarchar" MaxLength="15" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DEMO_TTTA.dbo.BANGHOCPHI' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="BANGHOCPHI">
+    <Key>
+      <PropertyRef Name="HVID" />
+      <PropertyRef Name="MaKH" />
+      <PropertyRef Name="MaLop" />
+      <PropertyRef Name="TenMon" />
+      <PropertyRef Name="DaDong" />
+      <PropertyRef Name="TrangThai" />
+    </Key>
+    <Property Name="HVID" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="MaKH" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="TenKH" Type="nvarchar" MaxLength="100" />
+    <Property Name="MaLop" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="TenMon" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="NgayBatDau" Type="date" />
+    <Property Name="NgayKetThuc" Type="date" />
+    <Property Name="HocPhi" Type="char" MaxLength="15" />
+    <Property Name="DaDong" Type="int" Nullable="false" />
+    <Property Name="ConNo" Type="int" />
+    <Property Name="TrangThai" Type="nvarchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DEMO_TTTA.dbo.FULL_THONGTIN' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="FULL_THONGTIN">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="HOTEN" />
+      <PropertyRef Name="ChucVu" />
+      <PropertyRef Name="ACCID" />
+      <PropertyRef Name="USERNAME" />
+      <PropertyRef Name="PASS" />
+    </Key>
+    <Property Name="ID" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="HOTEN" Type="nvarchar" MaxLength="300" Nullable="false" />
+    <Property Name="ChucVu" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="ACCID" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="USERNAME" Type="varchar" MaxLength="300" Nullable="false" />
+    <Property Name="PASS" Type="varchar" MaxLength="300" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DEMO_TTTA.dbo.LOPDANGKI' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="LOPDANGKI">
+    <Key>
+      <PropertyRef Name="MaLop" />
+      <PropertyRef Name="TenMon" />
+      <PropertyRef Name="Thu" />
+      <PropertyRef Name="Ca" />
+      <PropertyRef Name="Phong" />
+    </Key>
+    <Property Name="MaLop" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="TenMon" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="TenKH" Type="nvarchar" MaxLength="100" />
+    <Property Name="SoBuoiTrongTuan" Type="char" MaxLength="2" />
+    <Property Name="HocPhi" Type="char" MaxLength="15" />
+    <Property Name="DiemTBQuaMon" Type="float" />
+    <Property Name="SoHocVien" Type="char" MaxLength="3" />
+    <Property Name="NgayBatDau" Type="date" />
+    <Property Name="NgayKetThuc" Type="date" />
+    <Property Name="TrangThai" Type="nvarchar" MaxLength="50" />
+    <Property Name="Thu" Type="char" MaxLength="1" Nullable="false" />
+    <Property Name="Ca" Type="char" MaxLength="1" Nullable="false" />
+    <Property Name="Phong" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="HOTEN" Type="nvarchar" MaxLength="100" />
+    <Property Name="GiangVien" Type="char" MaxLength="5" />
+    <Property Name="TTMoLop" Type="int" />
+    <Property Name="XacNhan" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DEMO_TTTA.dbo.LOPHOCDADANGKI' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="LOPHOCDADANGKI">
+    <Key>
+      <PropertyRef Name="HVID" />
+      <PropertyRef Name="MaLop" />
+      <PropertyRef Name="TenMon" />
+    </Key>
+    <Property Name="HVID" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="MaLop" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="TenMon" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="HocPhi" Type="char" MaxLength="15" />
+    <Property Name="NgayBatDau" Type="date" />
+    <Property Name="NgayKetThuc" Type="date" />
+    <Property Name="GiangVien" Type="char" MaxLength="5" />
+    <Property Name="TrangThai" Type="nvarchar" MaxLength="50" />
+    <Property Name="TTMoLop" Type="int" />
+    <Property Name="XacNhan" Type="int" />
+    <Property Name="HOTEN" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'DEMO_TTTA.dbo.THOIKHOABIEU' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="THOIKHOABIEU">
+          <Property Name="MaLop" Type="char" MaxLength="5" />
+          <Property Name="GvID" Type="char" MaxLength="5" />
+          <Property Name="HVID" Type="char" MaxLength="5" />
+          <Property Name="Thu" Type="char" MaxLength="1" />
+          <Property Name="Ca" Type="char" MaxLength="1" />
+          <Property Name="Phong" Type="char" MaxLength="5" />
+          <Property Name="GioBatDau" Type="time" Precision="7" />
+          <Property Name="GioKetThuc" Type="time" Precision="7" />
+          <Property Name="TenMon" Type="nvarchar" MaxLength="100" />
+          <Property Name="TenMonGon" Type="nvarchar" MaxLength="50" />
+          <Property Name="TTMoLop" Type="int" />
+          <Property Name="XacNhan" Type="int" />
+        </EntityType>-->
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DEMO_TTTA.dbo.View_1' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="View_1">
+    <Key>
+      <PropertyRef Name="HVID" />
+      <PropertyRef Name="MaLop" />
+      <PropertyRef Name="TenMon" />
+    </Key>
+    <Property Name="HVID" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="MaLop" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="TenMon" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="HocPhi" Type="char" MaxLength="15" />
+    <Property Name="NgayBatDau" Type="date" />
+    <Property Name="NgayKetThuc" Type="date" />
+    <Property Name="GiangVien" Type="char" MaxLength="5" />
+    <Property Name="TrangThai" Type="nvarchar" MaxLength="50" />
+    <Property Name="HOTEN" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <Association Name="FK_ADMIN">
+    <End Role="ACCOUNTS_ADMIN" Type="Self.ACCOUNTS_ADMIN" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="ADMIN" Type="Self.ADMIN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ACCOUNTS_ADMIN">
+        <PropertyRef Name="AccID_Adm" />
+      </Principal>
+      <Dependent Role="ADMIN">
+        <PropertyRef Name="ACCID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Ca">
+    <End Role="GIOHOC" Type="Self.GIOHOC" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="LICHHOC" Type="Self.LICHHOC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GIOHOC">
+        <PropertyRef Name="Ca" />
+      </Principal>
+      <Dependent Role="LICHHOC">
+        <PropertyRef Name="Ca" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DANGKILOP_HVID">
+    <End Role="HOCVIEN" Type="Self.HOCVIEN" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="DANHSACHLOP" Type="Self.DANHSACHLOP" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HOCVIEN">
+        <PropertyRef Name="HVID" />
+      </Principal>
+      <Dependent Role="DANHSACHLOP">
+        <PropertyRef Name="HVID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DANGKILOP_MaLop">
+    <End Role="LOPHOC" Type="Self.LOPHOC" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="DANHSACHLOP" Type="Self.DANHSACHLOP" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOPHOC">
+        <PropertyRef Name="MaLop" />
+      </Principal>
+      <Dependent Role="DANHSACHLOP">
+        <PropertyRef Name="MaLop" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GIANGVIEN">
+    <End Role="ACCOUNTS_TEACHER" Type="Self.ACCOUNTS_TEACHER" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="GIANGVIEN" Type="Self.GIANGVIEN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ACCOUNTS_TEACHER">
+        <PropertyRef Name="AccID_Tea" />
+      </Principal>
+      <Dependent Role="GIANGVIEN">
+        <PropertyRef Name="AccID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LOPHOC_GiangVien">
+    <End Role="GIANGVIEN" Type="Self.GIANGVIEN" Multiplicity="0..1" />
+    <End Role="LOPHOC" Type="Self.LOPHOC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GIANGVIEN">
+        <PropertyRef Name="GvID" />
+      </Principal>
+      <Dependent Role="LOPHOC">
+        <PropertyRef Name="GiangVien" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LSDT_HVID">
+    <End Role="HOCVIEN" Type="Self.HOCVIEN" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="LICHSUTHUTIEN" Type="Self.LICHSUTHUTIEN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HOCVIEN">
+        <PropertyRef Name="HVID" />
+      </Principal>
+      <Dependent Role="LICHSUTHUTIEN">
+        <PropertyRef Name="HVID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LSDT_MaLop">
+    <End Role="LOPHOC" Type="Self.LOPHOC" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="LICHSUTHUTIEN" Type="Self.LICHSUTHUTIEN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOPHOC">
+        <PropertyRef Name="MaLop" />
+      </Principal>
+      <Dependent Role="LICHSUTHUTIEN">
+        <PropertyRef Name="MaLop" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MaLop">
+    <End Role="LOPHOC" Type="Self.LOPHOC" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="LICHHOC" Type="Self.LICHHOC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOPHOC">
+        <PropertyRef Name="MaLop" />
+      </Principal>
+      <Dependent Role="LICHHOC">
+        <PropertyRef Name="MaLop" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MONHOC">
+    <End Role="KHOAHOC" Type="Self.KHOAHOC" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="LOPHOC" Type="Self.LOPHOC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KHOAHOC">
+        <PropertyRef Name="MaKH" />
+      </Principal>
+      <Dependent Role="LOPHOC">
+        <PropertyRef Name="MaKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NHANVIEN">
+    <End Role="ACCOUNTS_NHANVIEN" Type="Self.ACCOUNTS_NHANVIEN" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="NHANVIEN" Type="Self.NHANVIEN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ACCOUNTS_NHANVIEN">
+        <PropertyRef Name="AccID_NV" />
+      </Principal>
+      <Dependent Role="NHANVIEN">
+        <PropertyRef Name="ACCID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Phong">
+    <End Role="PHONGHOC" Type="Self.PHONGHOC" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="LICHHOC" Type="Self.LICHHOC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PHONGHOC">
+        <PropertyRef Name="Phong" />
+      </Principal>
+      <Dependent Role="LICHHOC">
+        <PropertyRef Name="Phong" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_STUDENT">
+    <End Role="ACCOUNTS_STUDENT" Type="Self.ACCOUNTS_STUDENT" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="HOCVIEN" Type="Self.HOCVIEN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ACCOUNTS_STUDENT">
+        <PropertyRef Name="AccID_Stu" />
+      </Principal>
+      <Dependent Role="HOCVIEN">
+        <PropertyRef Name="ACCID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="AUTO_AccID_Adm" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="varchar" />
+  <Function Name="AUTO_AccID_NV" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="varchar" />
+  <Function Name="AUTO_AccID_Stu" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="varchar" />
+  <Function Name="AUTO_AccID_Tea" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="varchar" />
+  <Function Name="AUTO_AdmID" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="varchar" />
+  <Function Name="AUTO_GvID" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="varchar" />
+  <Function Name="AUTO_HVID" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="varchar" />
+  <Function Name="AUTO_MaKH" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="varchar" />
+  <Function Name="AUTO_MaLop" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="varchar" />
+  <Function Name="AUTO_MaPC" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="varchar" />
+  <Function Name="AUTO_MaPT" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="varchar" />
+  <Function Name="AUTO_MaThu" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="varchar" />
+  <Function Name="AUTO_NVID" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="varchar" />
+  <Function Name="fn_diagramobjects" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="int" />
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="DEMO_TTTAModelStoreContainer">
+    <EntitySet Name="ACCOUNTS_ADMIN" EntityType="Self.ACCOUNTS_ADMIN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ACCOUNTS_NHANVIEN" EntityType="Self.ACCOUNTS_NHANVIEN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ACCOUNTS_STUDENT" EntityType="Self.ACCOUNTS_STUDENT" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ACCOUNTS_TEACHER" EntityType="Self.ACCOUNTS_TEACHER" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ADMIN" EntityType="Self.ADMIN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BANGLUONG" EntityType="Self.BANGLUONG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DANHSACHLOP" EntityType="Self.DANHSACHLOP" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GIANGVIEN" EntityType="Self.GIANGVIEN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GIOHOC" EntityType="Self.GIOHOC" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HOCVIEN" EntityType="Self.HOCVIEN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HOPTHU" EntityType="Self.HOPTHU" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KHOAHOC" EntityType="Self.KHOAHOC" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LICHHOC" EntityType="Self.LICHHOC" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LICHSUCHITIEN" EntityType="Self.LICHSUCHITIEN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LICHSUTHUTIEN" EntityType="Self.LICHSUTHUTIEN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LOPHOC" EntityType="Self.LOPHOC" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NHANVIEN" EntityType="Self.NHANVIEN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PHONGHOC" EntityType="Self.PHONGHOC" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FULL_ID" EntityType="Self.FULL_ID" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [FULL_ID].[ID] AS [ID]
+    FROM [dbo].[FULL_ID] AS [FULL_ID]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="BANGDIEM" EntityType="Self.BANGDIEM" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [BANGDIEM].[XepHang] AS [XepHang], 
+    [BANGDIEM].[MaLop] AS [MaLop], 
+    [BANGDIEM].[HVID] AS [HVID], 
+    [BANGDIEM].[DiemGiuaKy] AS [DiemGiuaKy], 
+    [BANGDIEM].[DiemCuoiKy] AS [DiemCuoiKy], 
+    [BANGDIEM].[DiemTB] AS [DiemTB], 
+    [BANGDIEM].[TTMoLop] AS [TTMoLop], 
+    [BANGDIEM].[XacNhan] AS [XacNhan], 
+    [BANGDIEM].[TrangThai] AS [TrangThai]
+    FROM [dbo].[BANGDIEM] AS [BANGDIEM]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="BANGHOCPHI" EntityType="Self.BANGHOCPHI" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [BANGHOCPHI].[HVID] AS [HVID], 
+    [BANGHOCPHI].[MaKH] AS [MaKH], 
+    [BANGHOCPHI].[TenKH] AS [TenKH], 
+    [BANGHOCPHI].[MaLop] AS [MaLop], 
+    [BANGHOCPHI].[TenMon] AS [TenMon], 
+    [BANGHOCPHI].[NgayBatDau] AS [NgayBatDau], 
+    [BANGHOCPHI].[NgayKetThuc] AS [NgayKetThuc], 
+    [BANGHOCPHI].[HocPhi] AS [HocPhi], 
+    [BANGHOCPHI].[DaDong] AS [DaDong], 
+    [BANGHOCPHI].[ConNo] AS [ConNo], 
+    [BANGHOCPHI].[TrangThai] AS [TrangThai]
+    FROM [dbo].[BANGHOCPHI] AS [BANGHOCPHI]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="FULL_THONGTIN" EntityType="Self.FULL_THONGTIN" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [FULL_THONGTIN].[ID] AS [ID], 
+    [FULL_THONGTIN].[HOTEN] AS [HOTEN], 
+    [FULL_THONGTIN].[ChucVu] AS [ChucVu], 
+    [FULL_THONGTIN].[ACCID] AS [ACCID], 
+    [FULL_THONGTIN].[USERNAME] AS [USERNAME], 
+    [FULL_THONGTIN].[PASS] AS [PASS]
+    FROM [dbo].[FULL_THONGTIN] AS [FULL_THONGTIN]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="LOPDANGKI" EntityType="Self.LOPDANGKI" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [LOPDANGKI].[MaLop] AS [MaLop], 
+    [LOPDANGKI].[TenMon] AS [TenMon], 
+    [LOPDANGKI].[TenKH] AS [TenKH], 
+    [LOPDANGKI].[SoBuoiTrongTuan] AS [SoBuoiTrongTuan], 
+    [LOPDANGKI].[HocPhi] AS [HocPhi], 
+    [LOPDANGKI].[DiemTBQuaMon] AS [DiemTBQuaMon], 
+    [LOPDANGKI].[SoHocVien] AS [SoHocVien], 
+    [LOPDANGKI].[NgayBatDau] AS [NgayBatDau], 
+    [LOPDANGKI].[NgayKetThuc] AS [NgayKetThuc], 
+    [LOPDANGKI].[TrangThai] AS [TrangThai], 
+    [LOPDANGKI].[Thu] AS [Thu], 
+    [LOPDANGKI].[Ca] AS [Ca], 
+    [LOPDANGKI].[Phong] AS [Phong], 
+    [LOPDANGKI].[HOTEN] AS [HOTEN], 
+    [LOPDANGKI].[GiangVien] AS [GiangVien], 
+    [LOPDANGKI].[TTMoLop] AS [TTMoLop], 
+    [LOPDANGKI].[XacNhan] AS [XacNhan]
+    FROM [dbo].[LOPDANGKI] AS [LOPDANGKI]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="LOPHOCDADANGKI" EntityType="Self.LOPHOCDADANGKI" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [LOPHOCDADANGKI].[HVID] AS [HVID], 
+    [LOPHOCDADANGKI].[MaLop] AS [MaLop], 
+    [LOPHOCDADANGKI].[TenMon] AS [TenMon], 
+    [LOPHOCDADANGKI].[HocPhi] AS [HocPhi], 
+    [LOPHOCDADANGKI].[NgayBatDau] AS [NgayBatDau], 
+    [LOPHOCDADANGKI].[NgayKetThuc] AS [NgayKetThuc], 
+    [LOPHOCDADANGKI].[GiangVien] AS [GiangVien], 
+    [LOPHOCDADANGKI].[TrangThai] AS [TrangThai], 
+    [LOPHOCDADANGKI].[TTMoLop] AS [TTMoLop], 
+    [LOPHOCDADANGKI].[XacNhan] AS [XacNhan], 
+    [LOPHOCDADANGKI].[HOTEN] AS [HOTEN]
+    FROM [dbo].[LOPHOCDADANGKI] AS [LOPHOCDADANGKI]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="View_1" EntityType="Self.View_1" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [View_1].[HVID] AS [HVID], 
+    [View_1].[MaLop] AS [MaLop], 
+    [View_1].[TenMon] AS [TenMon], 
+    [View_1].[HocPhi] AS [HocPhi], 
+    [View_1].[NgayBatDau] AS [NgayBatDau], 
+    [View_1].[NgayKetThuc] AS [NgayKetThuc], 
+    [View_1].[GiangVien] AS [GiangVien], 
+    [View_1].[TrangThai] AS [TrangThai], 
+    [View_1].[HOTEN] AS [HOTEN]
+    FROM [dbo].[View_1] AS [View_1]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_ADMIN" Association="Self.FK_ADMIN">
+      <End Role="ACCOUNTS_ADMIN" EntitySet="ACCOUNTS_ADMIN" />
+      <End Role="ADMIN" EntitySet="ADMIN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Ca" Association="Self.FK_Ca">
+      <End Role="GIOHOC" EntitySet="GIOHOC" />
+      <End Role="LICHHOC" EntitySet="LICHHOC" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DANGKILOP_HVID" Association="Self.FK_DANGKILOP_HVID">
+      <End Role="HOCVIEN" EntitySet="HOCVIEN" />
+      <End Role="DANHSACHLOP" EntitySet="DANHSACHLOP" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DANGKILOP_MaLop" Association="Self.FK_DANGKILOP_MaLop">
+      <End Role="LOPHOC" EntitySet="LOPHOC" />
+      <End Role="DANHSACHLOP" EntitySet="DANHSACHLOP" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GIANGVIEN" Association="Self.FK_GIANGVIEN">
+      <End Role="ACCOUNTS_TEACHER" EntitySet="ACCOUNTS_TEACHER" />
+      <End Role="GIANGVIEN" EntitySet="GIANGVIEN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LOPHOC_GiangVien" Association="Self.FK_LOPHOC_GiangVien">
+      <End Role="GIANGVIEN" EntitySet="GIANGVIEN" />
+      <End Role="LOPHOC" EntitySet="LOPHOC" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LSDT_HVID" Association="Self.FK_LSDT_HVID">
+      <End Role="HOCVIEN" EntitySet="HOCVIEN" />
+      <End Role="LICHSUTHUTIEN" EntitySet="LICHSUTHUTIEN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LSDT_MaLop" Association="Self.FK_LSDT_MaLop">
+      <End Role="LOPHOC" EntitySet="LOPHOC" />
+      <End Role="LICHSUTHUTIEN" EntitySet="LICHSUTHUTIEN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MaLop" Association="Self.FK_MaLop">
+      <End Role="LOPHOC" EntitySet="LOPHOC" />
+      <End Role="LICHHOC" EntitySet="LICHHOC" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MONHOC" Association="Self.FK_MONHOC">
+      <End Role="KHOAHOC" EntitySet="KHOAHOC" />
+      <End Role="LOPHOC" EntitySet="LOPHOC" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NHANVIEN" Association="Self.FK_NHANVIEN">
+      <End Role="ACCOUNTS_NHANVIEN" EntitySet="ACCOUNTS_NHANVIEN" />
+      <End Role="NHANVIEN" EntitySet="NHANVIEN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Phong" Association="Self.FK_Phong">
+      <End Role="PHONGHOC" EntitySet="PHONGHOC" />
+      <End Role="LICHHOC" EntitySet="LICHHOC" />
+    </AssociationSet>
+    <AssociationSet Name="FK_STUDENT" Association="Self.FK_STUDENT">
+      <End Role="ACCOUNTS_STUDENT" EntitySet="ACCOUNTS_STUDENT" />
+      <End Role="HOCVIEN" EntitySet="HOCVIEN" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ad4c40a0b04e478ea6f007034b061c13" Name="Diagram1" ZoomLevel="68">
+        <EntityTypeShape EntityType="DEMO_TTTAModel.ACCOUNTS_ADMIN" Width="1.5" PointX="12.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.ACCOUNTS_NHANVIEN" Width="1.5" PointX="10.75" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.ACCOUNTS_STUDENT" Width="1.5" PointX="3" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.ACCOUNTS_TEACHER" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.ADMIN" Width="1.5" PointX="15" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.BANGLUONG" Width="1.5" PointX="9.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.DANHSACHLOP" Width="1.5" PointX="7.5" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.GIANGVIEN2" Width="1.5" PointX="3" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.GIOHOC" Width="1.5" PointX="8.25" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.HOCVIEN1" Width="1.5" PointX="5.25" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.HOPTHU" Width="1.5" PointX="0.75" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.KHOAHOC" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.LICHHOC" Width="1.5" PointX="10.5" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.LICHSUCHITIEN" Width="1.5" PointX="12.75" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.LICHSUTHUTIEN" Width="1.5" PointX="7.5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.LOPHOC" Width="1.5" PointX="5.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.NHANVIEN" Width="1.5" PointX="13" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.PHONGHOC" Width="1.5" PointX="8.25" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.sysdiagram" Width="1.5" PointX="10.75" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.FULL_ID" Width="1.5" PointX="12.75" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.BANGDIEM" Width="1.5" PointX="2.75" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.BANGHOCPHI" Width="1.5" PointX="4.75" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.FULL_THONGTIN" Width="1.5" PointX="14.75" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.LOPDANGKI" Width="1.5" PointX="6.75" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.LOPHOCDADANGKI" Width="1.5" PointX="14.75" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DEMO_TTTAModel.View_1" Width="1.5" PointX="15.75" PointY="9.125" IsExpanded="true" />
+        <AssociationConnector Association="DEMO_TTTAModel.FK_ADMIN" ManuallyRouted="false" />
+        <AssociationConnector Association="DEMO_TTTAModel.FK_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="DEMO_TTTAModel.FK_STUDENT" ManuallyRouted="false" />
+        <AssociationConnector Association="DEMO_TTTAModel.FK_GIANGVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="DEMO_TTTAModel.FK_DANGKILOP_HVID" ManuallyRouted="false" />
+        <AssociationConnector Association="DEMO_TTTAModel.FK_DANGKILOP_MaLop" ManuallyRouted="false" />
+        <AssociationConnector Association="DEMO_TTTAModel.FK_LOPHOC_GiangVien" ManuallyRouted="false" />
+        <AssociationConnector Association="DEMO_TTTAModel.FK_Ca" ManuallyRouted="false" />
+        <AssociationConnector Association="DEMO_TTTAModel.FK_LSDT_HVID" ManuallyRouted="false" />
+        <AssociationConnector Association="DEMO_TTTAModel.FK_MONHOC" ManuallyRouted="false" />
+        <AssociationConnector Association="DEMO_TTTAModel.FK_MaLop" ManuallyRouted="false" />
+        <AssociationConnector Association="DEMO_TTTAModel.FK_Phong" ManuallyRouted="false" />
+        <AssociationConnector Association="DEMO_TTTAModel.FK_LSDT_MaLop" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

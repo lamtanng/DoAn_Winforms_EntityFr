@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DEMO_TTTADataSet" targetNamespace="http://tempuri.org/DEMO_TTTADataSet.xsd" xmlns:mstns="http://tempuri.org/DEMO_TTTADataSet.xsd" xmlns="http://tempuri.org/DEMO_TTTADataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DEMO_TTTAConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DEMO_TTTAConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DemoDoAn.Properties.Settings.GlobalReference.Default.DEMO_TTTAConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="BANGHOCPHITableAdapter" GeneratorDataComponentClassName="BANGHOCPHITableAdapter" Name="BANGHOCPHI" UserDataComponentName="BANGHOCPHITableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DEMO_TTTAConnectionString (Settings)" DbObjectName="DEMO_TTTA.dbo.BANGHOCPHI" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MaLop, TenMon, NgayBatDau, NgayKetThuc, HocPhi, DaDong, ConNo, TrangThai FROM dbo.BANGHOCPHI</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MaLop" DataSetColumn="MaLop" />
+              <Mapping SourceColumn="TenMon" DataSetColumn="TenMon" />
+              <Mapping SourceColumn="NgayBatDau" DataSetColumn="NgayBatDau" />
+              <Mapping SourceColumn="NgayKetThuc" DataSetColumn="NgayKetThuc" />
+              <Mapping SourceColumn="HocPhi" DataSetColumn="HocPhi" />
+              <Mapping SourceColumn="DaDong" DataSetColumn="DaDong" />
+              <Mapping SourceColumn="ConNo" DataSetColumn="ConNo" />
+              <Mapping SourceColumn="TrangThai" DataSetColumn="TrangThai" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DEMO_TTTADataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="DEMO_TTTADataSet" msprop:Generator_DataSetName="DEMO_TTTADataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="BANGHOCPHI" msprop:Generator_RowEvHandlerName="BANGHOCPHIRowChangeEventHandler" msprop:Generator_RowDeletedName="BANGHOCPHIRowDeleted" msprop:Generator_RowDeletingName="BANGHOCPHIRowDeleting" msprop:Generator_RowEvArgName="BANGHOCPHIRowChangeEvent" msprop:Generator_TablePropName="BANGHOCPHI" msprop:Generator_RowChangedName="BANGHOCPHIRowChanged" msprop:Generator_RowChangingName="BANGHOCPHIRowChanging" msprop:Generator_TableClassName="BANGHOCPHIDataTable" msprop:Generator_RowClassName="BANGHOCPHIRow" msprop:Generator_TableVarName="tableBANGHOCPHI" msprop:Generator_UserTableName="BANGHOCPHI">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaLop" msprop:Generator_ColumnPropNameInRow="MaLop" msprop:Generator_ColumnPropNameInTable="MaLopColumn" msprop:Generator_ColumnVarNameInTable="columnMaLop" msprop:Generator_UserColumnName="MaLop">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TenMon" msprop:Generator_ColumnPropNameInRow="TenMon" msprop:Generator_ColumnPropNameInTable="TenMonColumn" msprop:Generator_ColumnVarNameInTable="columnTenMon" msprop:Generator_UserColumnName="TenMon">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NgayBatDau" msprop:Generator_ColumnPropNameInRow="NgayBatDau" msprop:Generator_ColumnPropNameInTable="NgayBatDauColumn" msprop:Generator_ColumnVarNameInTable="columnNgayBatDau" msprop:Generator_UserColumnName="NgayBatDau" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="NgayKetThuc" msprop:Generator_ColumnPropNameInRow="NgayKetThuc" msprop:Generator_ColumnPropNameInTable="NgayKetThucColumn" msprop:Generator_ColumnVarNameInTable="columnNgayKetThuc" msprop:Generator_UserColumnName="NgayKetThuc" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="HocPhi" msprop:Generator_ColumnPropNameInRow="HocPhi" msprop:Generator_ColumnPropNameInTable="HocPhiColumn" msprop:Generator_ColumnVarNameInTable="columnHocPhi" msprop:Generator_UserColumnName="HocPhi" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DaDong" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInRow="DaDong" msprop:Generator_ColumnPropNameInTable="DaDongColumn" msprop:Generator_ColumnVarNameInTable="columnDaDong" msprop:Generator_UserColumnName="DaDong" type="xs:int" minOccurs="0" />
+              <xs:element name="ConNo" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInRow="ConNo" msprop:Generator_ColumnPropNameInTable="ConNoColumn" msprop:Generator_ColumnVarNameInTable="columnConNo" msprop:Generator_UserColumnName="ConNo" type="xs:int" minOccurs="0" />
+              <xs:element name="TrangThai" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInRow="TrangThai" msprop:Generator_ColumnPropNameInTable="TrangThaiColumn" msprop:Generator_ColumnVarNameInTable="columnTrangThai" msprop:Generator_UserColumnName="TrangThai" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
